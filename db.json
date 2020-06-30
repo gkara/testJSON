@@ -1,0 +1,422 @@
+[
+  {
+    "year": 1992,
+    "Antarctica": 4.41,
+    "Antarctic Peninsula": -1.8,
+    "East Antarctica": 1.63,
+    "West Antarctica": 4.58
+  },
+  {
+    "year": 1992.08,
+    "Antarctica": 11.48,
+    "Antarctic Peninsula": -3.32,
+    "East Antarctica": 6.32,
+    "West Antarctica": 8.48
+  },
+  {
+    "year": 1992.17,
+    "Antarctica": 19.65,
+    "Antarctic Peninsula": -4.4,
+    "East Antarctica": 11,
+    "West Antarctica": 13.05
+  },
+  {
+    "year": 1992.25,
+    "Antarctica": 10.59,
+    "Antarctic Peninsula": -5.43,
+    "East Antarctica": 2.98,
+    "West Antarctica": 13.05
+  },
+  {
+    "year": 1992.33,
+    "Antarctica": 9.46,
+    "Antarctic Peninsula": -6.02,
+    "East Antarctica": 2.26,
+    "West Antarctica": 13.22
+  },
+  {
+    "year": 1992.42,
+    "Antarctica": 7.56,
+    "Antarctic Peninsula": -6.63,
+    "East Antarctica": 0.71,
+    "West Antarctica": 13.48
+  },
+  {
+    "year": 1992.5,
+    "Antarctica": 7.33,
+    "Antarctic Peninsula": -7.05,
+    "East Antarctica": -0.58,
+    "West Antarctica": 14.96
+  },
+  {
+    "year": 1992.58,
+    "Antarctica": 9.06,
+    "Antarctic Peninsula": -7.59,
+    "East Antarctica": -1,
+    "West Antarctica": 17.64
+  },
+  {
+    "year": 1992.67,
+    "Antarctica": 11.46,
+    "Antarctic Peninsula": -7.84,
+    "East Antarctica": -0.49,
+    "West Antarctica": 19.79
+  },
+  {
+    "year": 1992.75,
+    "Antarctica": 13.06,
+    "Antarctic Peninsula": -7.99,
+    "East Antarctica": -0.81,
+    "West Antarctica": 21.86
+  },
+  {
+    "year": 1992.83,
+    "Antarctica": 12.13,
+    "Antarctic Peninsula": -8.22,
+    "East Antarctica": -1.88,
+    "West Antarctica": 22.24
+  },
+  {
+    "year": 1992.92,
+    "Antarctica": 13.42,
+    "Antarctic Peninsula": -8.21,
+    "East Antarctica": -1.32,
+    "West Antarctica": 22.96
+  },
+  {
+    "year": 1993,
+    "Antarctica": 16.38,
+    "Antarctic Peninsula": -7.89,
+    "East Antarctica": 0.94,
+    "West Antarctica": 23.33
+  },
+  {
+    "year": 1993.08,
+    "Antarctica": 20.54,
+    "Antarctic Peninsula": -7.31,
+    "East Antarctica": 4.95,
+    "West Antarctica": 22.89
+  },
+  {
+    "year": 1993.17,
+    "Antarctica": 23.72,
+    "Antarctic Peninsula": -6.7,
+    "East Antarctica": 6.98,
+    "West Antarctica": 23.45
+  },
+  {
+    "year": 1993.25,
+    "Antarctica": 26.39,
+    "Antarctic Peninsula": -6.27,
+    "East Antarctica": 8.62,
+    "West Antarctica": 24.04
+  },
+  {
+    "year": 1993.33,
+    "Antarctica": 26.73,
+    "Antarctic Peninsula": -5.6,
+    "East Antarctica": 10.03,
+    "West Antarctica": 22.3
+  },
+  {
+    "year": 1993.42,
+    "Antarctica": 22.28,
+    "Antarctic Peninsula": -5.52,
+    "East Antarctica": 9.16,
+    "West Antarctica": 18.64
+  },
+  {
+    "year": 1993.5,
+    "Antarctica": 16.1,
+    "Antarctic Peninsula": -5.65,
+    "East Antarctica": 7.51,
+    "West Antarctica": 14.24
+  },
+  {
+    "year": 1993.58,
+    "Antarctica": 7.55,
+    "Antarctic Peninsula": -5.83,
+    "East Antarctica": 4.83,
+    "West Antarctica": 8.55
+  },
+  {
+    "year": 1993.67,
+    "Antarctica": -1.76,
+    "Antarctic Peninsula": -5.95,
+    "East Antarctica": 1.05,
+    "West Antarctica": 3.13
+  },
+  {
+    "year": 1993.75,
+    "Antarctica": -13.16,
+    "Antarctic Peninsula": -6.32,
+    "East Antarctica": -4.7,
+    "West Antarctica": -2.13
+  },
+  {
+    "year": 1993.83,
+    "Antarctica": -23.3,
+    "Antarctic Peninsula": -6.76,
+    "East Antarctica": -9.75,
+    "West Antarctica": -6.78
+  },
+  {
+    "year": 1993.92,
+    "Antarctica": -32.32,
+    "Antarctic Peninsula": -7.42,
+    "East Antarctica": -13.6,
+    "West Antarctica": -11.3
+  },
+  {
+    "year": 1994,
+    "Antarctica": -42.02,
+    "Antarctic Peninsula": -8.34,
+    "East Antarctica": -16.77,
+    "West Antarctica": -16.9
+  },
+  {
+    "year": 1994.08,
+    "Antarctica": -53.99,
+    "Antarctic Peninsula": -9.3,
+    "East Antarctica": -20.68,
+    "West Antarctica": -24.01
+  },
+  {
+    "year": 1994.17,
+    "Antarctica": -64.15,
+    "Antarctic Peninsula": -10.5,
+    "East Antarctica": -22.31,
+    "West Antarctica": -31.33
+  },
+  {
+    "year": 1994.25,
+    "Antarctica": -74.64,
+    "Antarctic Peninsula": -12,
+    "East Antarctica": -23.89,
+    "West Antarctica": -38.75
+  },
+  {
+    "year": 1994.33,
+    "Antarctica": -84.44,
+    "Antarctic Peninsula": -13.55,
+    "East Antarctica": -25.11,
+    "West Antarctica": -45.77
+  },
+  {
+    "year": 1994.42,
+    "Antarctica": -93.77,
+    "Antarctic Peninsula": -15.11,
+    "East Antarctica": -26.08,
+    "West Antarctica": -52.58
+  },
+  {
+    "year": 1994.5,
+    "Antarctica": -103.71,
+    "Antarctic Peninsula": -16.3,
+    "East Antarctica": -28.94,
+    "West Antarctica": -58.47
+  },
+  {
+    "year": 1994.58,
+    "Antarctica": -114.14,
+    "Antarctic Peninsula": -17.51,
+    "East Antarctica": -32.87,
+    "West Antarctica": -63.76
+  },
+  {
+    "year": 1994.67,
+    "Antarctica": -124.53,
+    "Antarctic Peninsula": -18.59,
+    "East Antarctica": -37.09,
+    "West Antarctica": -68.86
+  },
+  {
+    "year": 1994.75,
+    "Antarctica": -136.63,
+    "Antarctic Peninsula": -19.44,
+    "East Antarctica": -41.4,
+    "West Antarctica": -75.79
+  },
+  {
+    "year": 1994.83,
+    "Antarctica": -148.57,
+    "Antarctic Peninsula": -20.35,
+    "East Antarctica": -45.97,
+    "West Antarctica": -82.25
+  },
+  {
+    "year": 1994.92,
+    "Antarctica": -160.37,
+    "Antarctic Peninsula": -21.39,
+    "East Antarctica": -50.08,
+    "West Antarctica": -88.9
+  },
+  {
+    "year": 1995,
+    "Antarctica": -171.06,
+    "Antarctic Peninsula": -22.37,
+    "East Antarctica": -52.86,
+    "West Antarctica": -95.84
+  },
+  {
+    "year": 1995.08,
+    "Antarctica": -179.83,
+    "Antarctic Peninsula": -23.33,
+    "East Antarctica": -54.03,
+    "West Antarctica": -102.47
+  },
+  {
+    "year": 1995.17,
+    "Antarctica": -184.44,
+    "Antarctic Peninsula": -24.28,
+    "East Antarctica": -51.63,
+    "West Antarctica": -108.53
+  },
+  {
+    "year": 1995.25,
+    "Antarctica": -188.29,
+    "Antarctic Peninsula": -24.93,
+    "East Antarctica": -50.24,
+    "West Antarctica": -113.12
+  },
+  {
+    "year": 1995.33,
+    "Antarctica": -189.6,
+    "Antarctic Peninsula": -25.22,
+    "East Antarctica": -46.61,
+    "West Antarctica": -117.76
+  },
+  {
+    "year": 1995.42,
+    "Antarctica": -189.95,
+    "Antarctic Peninsula": -25.63,
+    "East Antarctica": -40.8,
+    "West Antarctica": -123.52
+  },
+  {
+    "year": 1995.5,
+    "Antarctica": -190.91,
+    "Antarctic Peninsula": -26.08,
+    "East Antarctica": -35.55,
+    "West Antarctica": -129.29
+  },
+  {
+    "year": 1995.58,
+    "Antarctica": -193.38,
+    "Antarctic Peninsula": -26.64,
+    "East Antarctica": -30.95,
+    "West Antarctica": -135.79
+  },
+  {
+    "year": 1995.67,
+    "Antarctica": -195.18,
+    "Antarctic Peninsula": -27.21,
+    "East Antarctica": -24.61,
+    "West Antarctica": -143.36
+  },
+  {
+    "year": 1995.75,
+    "Antarctica": -197.14,
+    "Antarctic Peninsula": -27.79,
+    "East Antarctica": -18.8,
+    "West Antarctica": -150.55
+  },
+  {
+    "year": 1995.83,
+    "Antarctica": -201.12,
+    "Antarctic Peninsula": -28.66,
+    "East Antarctica": -15.06,
+    "West Antarctica": -157.4
+  },
+  {
+    "year": 1995.92,
+    "Antarctica": -204.62,
+    "Antarctic Peninsula": -29.59,
+    "East Antarctica": -9.99,
+    "West Antarctica": -165.04
+  },
+  {
+    "year": 1996,
+    "Antarctica": -208.23,
+    "Antarctic Peninsula": -30.38,
+    "East Antarctica": -5.1,
+    "West Antarctica": -172.75
+  },
+  {
+    "year": 1996.08,
+    "Antarctica": -211.58,
+    "Antarctic Peninsula": -31.07,
+    "East Antarctica": -1.34,
+    "West Antarctica": -179.18
+  },
+  {
+    "year": 1996.17,
+    "Antarctica": -214.84,
+    "Antarctic Peninsula": -31.45,
+    "East Antarctica": 2.74,
+    "West Antarctica": -186.13
+  },
+  {
+    "year": 1996.25,
+    "Antarctica": -215.98,
+    "Antarctic Peninsula": -31.76,
+    "East Antarctica": 7.3,
+    "West Antarctica": -191.53
+  },
+  {
+    "year": 1996.33,
+    "Antarctica": -215.79,
+    "Antarctic Peninsula": -32.32,
+    "East Antarctica": 14.25,
+    "West Antarctica": -197.72
+  },
+  {
+    "year": 1996.42,
+    "Antarctica": -214.77,
+    "Antarctic Peninsula": -32.81,
+    "East Antarctica": 22.62,
+    "West Antarctica": -204.58
+  },
+  {
+    "year": 1996.5,
+    "Antarctica": -214.26,
+    "Antarctic Peninsula": -33.23,
+    "East Antarctica": 30.72,
+    "West Antarctica": -211.75
+  },
+  {
+    "year": 1996.58,
+    "Antarctica": -213.54,
+    "Antarctic Peninsula": -33.6,
+    "East Antarctica": 38.85,
+    "West Antarctica": -218.79
+  },
+  {
+    "year": 1996.67,
+    "Antarctica": -213.76,
+    "Antarctic Peninsula": -33.86,
+    "East Antarctica": 45.25,
+    "West Antarctica": -225.15
+  },
+  {
+    "year": 1996.75,
+    "Antarctica": -218.57,
+    "Antarctic Peninsula": -34.33,
+    "East Antarctica": 47.66,
+    "West Antarctica": -231.89
+  },
+  {
+    "year": 1996.83,
+    "Antarctica": -224.61,
+    "Antarctic Peninsula": -34.64,
+    "East Antarctica": 48.26,
+    "West Antarctica": -238.23
+  },
+  {
+    "year": 1996.92,
+    "Antarctica": -230.41,
+    "Antarctic Peninsula": -34.95,
+    "East Antarctica": 48.46,
+    "West Antarctica": -243.92
+  }
+]
